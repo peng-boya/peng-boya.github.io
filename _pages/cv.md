@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## 📄 Download
+## Download
 
 <a href="{{ base_path }}/files/CV_BoyaPeng.pdf" class="btn btn--primary">
   <i class="fas fa-download"></i> Download Full CV (PDF)
