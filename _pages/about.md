@@ -26,6 +26,7 @@ Research
 ------
 - [Global Supply Chain Rerouting in Response to the U.S.-China Trade War](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787687), with Vernon Hsu and Jing Wu
   - Major Revision at Manufacturing and Service Operations Management
+  - Selected for presentation at the 2024 MSOM Conference
 - [Integrating Operations and Finance for Sustainable Development: Theory, Practice, and Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236382), with Yuxuan Zhang and Jing Wu
   - Major Revision at Production and Operations Management
 - [Cost Shocks and Production Reorganization: Evidence from India’s Goods and Services Tax Reform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5830602), with Kashish Arora and Jing Wu
