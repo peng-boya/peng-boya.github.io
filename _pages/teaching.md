@@ -7,25 +7,25 @@ author_profile: true
 
 CUHK Business School
 <p>
-<strong>Teaching Assistant for Financial Data Modeling and Analysis (FMBA)</strong> - 2025
+Teaching Assistant for Financial Data Modeling and Analysis (FMBA) - 2025
 </p>
 
 <p>
-<strong>Teaching Assistant for Strategic Management of Innovation (EMBA)</strong> - 2025
+Teaching Assistant for Strategic Management of Innovation (EMBA) - 2025
 </p>
 
 <p>
-<strong>Teaching Assistant for Advanced Topics in Global Operations and Supply Chain Strategies (DBA)</strong> - 2025
+Teaching Assistant for Advanced Topics in Global Operations and Supply Chain Strategies (DBA) - 2025
 </p>
 
 <p>
-<strong>Teaching Assistant for Statistical Analysis for Business Decisions (Undergraduate)</strong> - 2024
+Teaching Assistant for Statistical Analysis for Business Decisions (Undergraduate) - 2024
 </p>
 
 <p>
-<strong>Teaching Assistant for Fintech and Its Applications (Master)</strong> - 2023
+Teaching Assistant for Fintech and Its Applications (Master) - 2023
 </p>
 
 <p>
-<strong>Teaching Assistant for Global Supply Chain Management (Master)</strong> - 2022
+Teaching Assistant for Global Supply Chain Management (Master) - 2022
 </p>
