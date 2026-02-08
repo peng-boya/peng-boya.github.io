@@ -8,7 +8,7 @@ author_profile: true
 ## Main Pages
 
 - [Home](/)
-- [Research](/publications/)
+- [Research](/research/)
 - [Teaching](/teaching/)
 - [CV](/cv/)
 
