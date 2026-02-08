@@ -1,37 +1,23 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Site Map"
 permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+## Main Pages
 
-A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+- [Home](/)
+- [Research](/research/)
+- [Teaching](/teaching/)
+- [CV](/cv/)
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+## Useful Links
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+- [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
+- [ORCID](https://orcid.org/YOUR_ORCID)
+- [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=YOUR_ID)
 
-{% capture written_label %}'None'{% endcapture %}
+---
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+For search engines, see the [XML sitemap](/sitemap.xml).
