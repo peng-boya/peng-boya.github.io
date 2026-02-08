@@ -9,7 +9,7 @@ author_profile: true
 
 ### Global Supply Chain Rerouting in Response to the U.S.-China Trade War
 
-*With [Vernon Hsu](https://www.bschool.cuhk.edu.hk/staff/hsu-vernon-ning/) and [Jing Wu](https://www.jingwulab.org/)*
+With [Vernon Hsu](https://www.bschool.cuhk.edu.hk/staff/hsu-vernon-ning/) and [Jing Wu](https://www.jingwulab.org/)
 
 Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787687). Major Revision at *Manufacturing & Service Operations Management*
 
@@ -28,7 +28,7 @@ Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787687)
 
 ### Integrating Operations and Finance for Sustainable Development: Theory, Practice, and Opportunities
 
-*With [Yuxuan Zhang](https://it.uibe.edu.cn/szdw/xxglx/203b120b42ef4c43905a9885115d6ab0.htm) and [Jing Wu](https://www.jingwulab.org/)*
+With [Yuxuan Zhang](https://it.uibe.edu.cn/szdw/xxglx/203b120b42ef4c43905a9885115d6ab0.htm) and [Jing Wu](https://www.jingwulab.org/)
 
 Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236382). Major Revision at *Production and Operations Management*
 
@@ -46,7 +46,7 @@ To bridge this gap, we present Large Language Models (LLMs) as a rigorous method
 
 ### Cost Shocks and Production Reorganization: Evidence from India's Goods and Services Tax Reform
 
-*With [Kashish Arora](https://kashisharora.info/) and [Jing Wu](https://www.jingwulab.org/)*
+With [Kashish Arora](https://kashisharora.info/) and [Jing Wu](https://www.jingwulab.org/)
 
 Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5830602). Under Review at *Management Science*
 
