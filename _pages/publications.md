@@ -30,7 +30,7 @@ Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787687)
 
 With [Yuxuan Zhang](https://it.uibe.edu.cn/szdw/xxglx/203b120b42ef4c43905a9885115d6ab0.htm) and [Jing Wu](https://www.jingwulab.org/)
 
-Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236382). Accept at *Production and Operations Management*
+Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236382). Accepted at *Production and Operations Management*
 
 [PDF](/files/poms_chris.pdf)
 
