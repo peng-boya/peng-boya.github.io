@@ -48,7 +48,7 @@ To bridge this gap, we present Large Language Models (LLMs) as a rigorous method
 
 With [Kashish Arora](https://kashisharora.info/) and [Jing Wu](https://www.jingwulab.org/)
 
-Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5830602). Under Review at *Management Science*
+Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5830602). Major Revision at *Management Science*
 
 [PDF](/files/gst.pdf)
 
