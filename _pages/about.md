@@ -30,5 +30,5 @@ Research
 - [Integrating Operations and Finance for Sustainable Development: Theory, Practice, and Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236382), with Yuxuan Zhang and Jing Wu
   - Accepted at Production and Operations Management
 - [Cost Shocks and Production Reorganization: Evidence from India’s Goods and Services Tax Reform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5830602), with Kashish Arora and Jing Wu
-  - Under Review at Management Science
+  - Major Revision at Management Science
   - Selected for presentation at the 2026 Interface of Finance, Operations, and Risk Management (iFORM) SIG-Day Conference
