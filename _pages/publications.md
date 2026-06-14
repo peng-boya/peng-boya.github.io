@@ -12,8 +12,6 @@ With [Yuxuan Zhang](https://it.uibe.edu.cn/szdw/xxglx/203b120b42ef4c43905a988511
 
 [*Production and Operations Management*](https://journals.sagepub.com/doi/10.1177/10591478261454786). 
 
-[PDF](/files/poms_chris.pdf)
-
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
