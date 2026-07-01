@@ -24,7 +24,7 @@ Sustainable development demands addressing two core challenges: mobilizing finan
 
 ### From Diversification to Consolidation: Supply Chain Reconfiguration across Repeated Tariff Episodes
 
-With [Morris A. Cohen](https://oid.wharton.upenn.edu/profile/cohen/), [Shiliang Cui](https://sites.google.com/view/shiliangcui/home), [Vinayak Deshpande](https://www.kenan-flagler.unc.edu/faculty/directory/vinayak-deshpande/), [Ricardo Ernst](https://gufaculty360.georgetown.edu/s/contact/00336000014Rfe5AAC/ricardo-ernst), [Arnd Huchzermeier](https://www.whu.edu/en/faculty-research/supply-chain-management-group/production-management/arnd-huchzermeier/), [Mark Kuppek](), [Daniela Muhaj](), [Andy Tsay](https://www.scu.edu/business/isa/faculty/tsay/), and [Jing Wu](https://www.jingwulab.org/)
+With [Morris A. Cohen](https://oid.wharton.upenn.edu/profile/cohen/), [Shiliang Cui](https://sites.google.com/view/shiliangcui/home), [Vinayak Deshpande](https://www.kenan-flagler.unc.edu/faculty/directory/vinayak-deshpande/), [Ricardo Ernst](https://gufaculty360.georgetown.edu/s/contact/00336000014Rfe5AAC/ricardo-ernst), [Arnd Huchzermeier](https://www.whu.edu/en/faculty-research/supply-chain-management-group/production-management/arnd-huchzermeier/), Mark Kuppek, Daniela Muhaj, [Andy Tsay](https://www.scu.edu/business/isa/faculty/tsay/), and [Jing Wu](https://www.jingwulab.org/)
 
 Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7030898). Under Review at *Manufacturing & Service Operations Management*
 
