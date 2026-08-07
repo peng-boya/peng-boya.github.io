@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD Candidate in the Department of Decisions, Operations and Technology at the Chinese University of Hong Kong, where I am fortunate to be supervised by Prof. Jing WU and Prof. Vernon Ning HSU. My research interests are empirical operations management, supply chain management, and operations-finance interface. 
+I am a fifth-year PhD Candidate in the Department of Decisions, Operations and Technology at the Chinese University of Hong Kong, where I am fortunate to be supervised by Prof. Jing WU and Prof. Vernon Ning HSU. My research interests are empirical operations management, supply chain management, and operations-finance interface. 
 
 **Contacts**
 - boyapeng@link.cuhk.edu.hk
