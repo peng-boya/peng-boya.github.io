@@ -58,6 +58,7 @@ Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787687)
 <strong>Methodology/results:</strong> Utilizing transaction-level customs import-export data, we develop a novel measure to assess firm-product-level indirect dependence of U.S. importers on China via their suppliers in Vietnam and Mexico. Our findings indicate a substantial increase in indirect dependence on China post-Trade War—indirect dependence via Vietnam and Mexico increased by approximately 21% and 5.5% respectively—suggesting that despite efforts to reduce dependence on China, U.S. supply chains remain indirectly dependent on China via third-party nations. We further explore the role of product channels, observing that more downstream products and products for which China has a significant revealed comparative advantage (RCA) experience greater increases in indirect dependence through Vietnam. In contrast, more upstream products exhibit more substantial increases through Mexico. Decomposing indirect dependence into U.S. import share and suppliers' input dependence on China reveals asymmetric growth patterns: for Vietnam, the latter component grows more significantly, while for Mexico, the former shows a slightly more pronounced increase.
 <strong>Managerial implications:</strong> Our results underscore the necessity for firms to reassess indirect dependencies beyond their first-tier suppliers, and also highlight the complex dynamics of global supply chain responses to bilateral trade disputes.
 </p>
+</details>
 
 ---
 
@@ -79,7 +80,7 @@ Most prior academic research examines how firms respond to a single tariff episo
 
 
 
-</details>
+
 
 ---
 
