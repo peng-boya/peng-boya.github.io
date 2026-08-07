@@ -22,25 +22,6 @@ Sustainable development demands addressing two core challenges: mobilizing finan
 
 ## Working Papers
 
-### From Diversification to Consolidation: Supply Chain Reconfiguration across Repeated Tariff Episodes
-
-With [Morris A. Cohen](https://oid.wharton.upenn.edu/profile/cohen/), [Shiliang Cui](https://sites.google.com/view/shiliangcui/home), [Vinayak Deshpande](https://www.kenan-flagler.unc.edu/faculty/directory/vinayak-deshpande/), [Ricardo Ernst](https://gufaculty360.georgetown.edu/s/contact/00336000014Rfe5AAC/ricardo-ernst), [Arnd Huchzermeier](https://www.whu.edu/en/faculty-research/supply-chain-management-group/production-management/arnd-huchzermeier/), Mark Kuppek, Daniela Muhaj, [Andy Tsay](https://www.scu.edu/business/isa/faculty/tsay/), and [Jing Wu](https://www.jingwulab.org/)
-
-Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7030898). Under Review at *Manufacturing & Service Operations Management*
-
-[PDF](/files/tariff.pdf)
-
-<details>
-<summary><strong>Abstract</strong></summary>
-<p>
-Most prior academic research examines how firms respond to a single tariff episode. Yet firms increasingly operate in an environment characterized by recurring tariff shocks. Whether successive tariff episodes lead firms to continue diversifying their supply chains or instead prompt a different mode of adaptation remains largely unknown. We study how U.S. importing firms reconfigure their global supply chains across two major tariff episodes: Trade War 1.0 in 2018 and Trade War 2.0 in 2025. Using firm-product-level import transactions from Panjiva matched with Compustat, we track changes in sourcing locations, supplier networks, and shipment flows. We first show that both tariff episodes divert sourcing away from China toward a similar set of alternative countries. However, the magnitude of reallocation is substantially weaker during the second episode, and the nearshoring shift toward North America that emerged in the first episode is largely absent. We then document a fundamental shift in firms’ adjustment behavior across episodes. The initial tariff episode induces broad-based diversification: firms expand the number of sourcing countries and suppliers while reducing average shipment volumes per supplier, consistent with an explore-and-test response under uncertainty. In contrast, the repeated tariff episode does not further broaden supplier networks. Instead, firms reduce the number of active suppliers and concentrate sourcing within networks established during the first episode. Moreover, supply chain reconfiguration following the second episode occurs more rapidly and is driven primarily by supplier exits rather than new supplier entry. This pattern suggests that firms draw on knowledge accumulated during the first trade war to make more targeted and decisive adjustments. The consolidation effect is particularly pronounced for differentiated products, where coordination-intensive inputs are less amenable to fragmented supplier networks. Repeated tariff episodes do not lead to further diversification. Rather, an initial episode prompts firms to build supply chain optionality by expanding their sourcing networks, whereas subsequent episodes trigger selective pruning and consolidation within those expanded networks. These findings offer guidance for managers seeking to design resilient global supply chains in an era of recurring trade-policy uncertainty.
-</p>
-</details>
-
----
-
-
-
 ### Cost Shocks and Production Reorganization: Evidence from India's Goods and Services Tax Reform
 
 With [Kashish Arora](https://kashisharora.info/) and [Jing Wu](https://www.jingwulab.org/)
@@ -77,6 +58,27 @@ Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787687)
 <strong>Methodology/results:</strong> Utilizing transaction-level customs import-export data, we develop a novel measure to assess firm-product-level indirect dependence of U.S. importers on China via their suppliers in Vietnam and Mexico. Our findings indicate a substantial increase in indirect dependence on China post-Trade War—indirect dependence via Vietnam and Mexico increased by approximately 21% and 5.5% respectively—suggesting that despite efforts to reduce dependence on China, U.S. supply chains remain indirectly dependent on China via third-party nations. We further explore the role of product channels, observing that more downstream products and products for which China has a significant revealed comparative advantage (RCA) experience greater increases in indirect dependence through Vietnam. In contrast, more upstream products exhibit more substantial increases through Mexico. Decomposing indirect dependence into U.S. import share and suppliers' input dependence on China reveals asymmetric growth patterns: for Vietnam, the latter component grows more significantly, while for Mexico, the former shows a slightly more pronounced increase.
 <strong>Managerial implications:</strong> Our results underscore the necessity for firms to reassess indirect dependencies beyond their first-tier suppliers, and also highlight the complex dynamics of global supply chain responses to bilateral trade disputes.
 </p>
+
+---
+
+### From Diversification to Consolidation: Supply Chain Reconfiguration across Repeated Tariff Episodes
+
+With [Morris A. Cohen](https://oid.wharton.upenn.edu/profile/cohen/), [Shiliang Cui](https://sites.google.com/view/shiliangcui/home), [Vinayak Deshpande](https://www.kenan-flagler.unc.edu/faculty/directory/vinayak-deshpande/), [Ricardo Ernst](https://gufaculty360.georgetown.edu/s/contact/00336000014Rfe5AAC/ricardo-ernst), [Arnd Huchzermeier](https://www.whu.edu/en/faculty-research/supply-chain-management-group/production-management/arnd-huchzermeier/), Mark Kuppek, Daniela Muhaj, [Andy Tsay](https://www.scu.edu/business/isa/faculty/tsay/), and [Jing Wu](https://www.jingwulab.org/)
+
+Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7030898). Under Review at *Manufacturing & Service Operations Management*
+
+[PDF](/files/tariff.pdf)
+
+<details>
+<summary><strong>Abstract</strong></summary>
+<p>
+Most prior academic research examines how firms respond to a single tariff episode. Yet firms increasingly operate in an environment characterized by recurring tariff shocks. Whether successive tariff episodes lead firms to continue diversifying their supply chains or instead prompt a different mode of adaptation remains largely unknown. We study how U.S. importing firms reconfigure their global supply chains across two major tariff episodes: Trade War 1.0 in 2018 and Trade War 2.0 in 2025. Using firm-product-level import transactions from Panjiva matched with Compustat, we track changes in sourcing locations, supplier networks, and shipment flows. We first show that both tariff episodes divert sourcing away from China toward a similar set of alternative countries. However, the magnitude of reallocation is substantially weaker during the second episode, and the nearshoring shift toward North America that emerged in the first episode is largely absent. We then document a fundamental shift in firms’ adjustment behavior across episodes. The initial tariff episode induces broad-based diversification: firms expand the number of sourcing countries and suppliers while reducing average shipment volumes per supplier, consistent with an explore-and-test response under uncertainty. In contrast, the repeated tariff episode does not further broaden supplier networks. Instead, firms reduce the number of active suppliers and concentrate sourcing within networks established during the first episode. Moreover, supply chain reconfiguration following the second episode occurs more rapidly and is driven primarily by supplier exits rather than new supplier entry. This pattern suggests that firms draw on knowledge accumulated during the first trade war to make more targeted and decisive adjustments. The consolidation effect is particularly pronounced for differentiated products, where coordination-intensive inputs are less amenable to fragmented supplier networks. Repeated tariff episodes do not lead to further diversification. Rather, an initial episode prompts firms to build supply chain optionality by expanding their sourcing networks, whereas subsequent episodes trigger selective pruning and consolidation within those expanded networks. These findings offer guidance for managers seeking to design resilient global supply chains in an era of recurring trade-policy uncertainty.
+</p>
+</details>
+
+
+
+
 </details>
 
 ---
