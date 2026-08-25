@@ -7,33 +7,38 @@ author_profile: true
 
 <style>
 .page__content {
-  font-size: 0.85em; /* 缩小整体字体到85% */
-  line-height: 1.4; /* 减小行高 */
+  font-size: 0.88em;
+  line-height: 1.45;
 }
 
 .page__content h2 {
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  font-size: 1.3em;
+  margin: 1.2em 0 0.4em 0;
+  font-size: 1.4em;
 }
 
 .page__content h3 {
-  margin-top: 1em;
-  margin-bottom: 0.3em;
+  margin: 0.8em 0 0.25em 0;
   font-size: 1.1em;
+  line-height: 1.3;
 }
 
 .page__content p {
-  margin-bottom: 0.5em; /* 减小段落间距 */
+  margin-bottom: 0.4em;
 }
 
 .page__content details {
-  margin-top: 0.5em;
-  margin-bottom: 1em;
+  margin: 0.4em 0 0.9em 0;
 }
 
 .page__content hr {
-  margin: 1.5em 0; /* 减小分隔线间距 */
+  margin: 1.2em 0;
+  border-color: #d4d4d4;
+}
+
+/* 压缩 "With [Author]" 这行 */
+.page__content h3 + p {
+  margin-top: 0.1em;
+  margin-bottom: 0.3em;
 }
 </style>
 
