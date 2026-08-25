@@ -4,6 +4,40 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+
+<style>
+.page__content {
+  font-size: 0.85em; /* 缩小整体字体到85% */
+  line-height: 1.4; /* 减小行高 */
+}
+
+.page__content h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.3em;
+}
+
+.page__content h3 {
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+  font-size: 1.1em;
+}
+
+.page__content p {
+  margin-bottom: 0.5em; /* 减小段落间距 */
+}
+
+.page__content details {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+.page__content hr {
+  margin: 1.5em 0; /* 减小分隔线间距 */
+}
+</style>
+
+
 ## Publications
 
 ### Integrating Operations and Finance for Sustainable Development: Theory, Practice, and Opportunities
