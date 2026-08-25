@@ -5,43 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<style>
-.page__content {
-  font-size: 0.88em;
-  line-height: 1.45;
-}
-
-.page__content h2 {
-  margin: 1.2em 0 0.4em 0;
-  font-size: 1.4em;
-}
-
-.page__content h3 {
-  margin: 0.8em 0 0.25em 0;
-  font-size: 1.1em;
-  line-height: 1.3;
-}
-
-.page__content p {
-  margin-bottom: 0.4em;
-}
-
-.page__content details {
-  margin: 0.4em 0 0.9em 0;
-}
-
-.page__content hr {
-  margin: 1.2em 0;
-  border-color: #d4d4d4;
-}
-
-/* 压缩 "With [Author]" 这行 */
-.page__content h3 + p {
-  margin-top: 0.1em;
-  margin-bottom: 0.3em;
-}
-</style>
-
 
 ## Publications
 
