@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 <style>
-  .page__content { font-size: 0.82em; line-height: 1.45; }
+  .page__content { font-size: 0.8em; line-height: 1.4; }
   .page__content h2 { font-size: 1.35em; margin-top: 0.6em; margin-bottom: 0.3em; }
   .page__content h3 { font-size: 1.05em; margin-top: 0.5em; margin-bottom: 0.1em; }
   .page__content p { margin-bottom: 0.3em; }
   .page__content details { margin-top: 0.2em; margin-bottom: 0.3em; }
-  .page__content details p { font-size: 0.92em; line-height: 1.4; }
+  .page__content details p { font-size: 0.8em; line-height: 1.4; }
   .page__content hr { margin: 0.6em 0; }
 </style>
 
