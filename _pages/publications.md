@@ -5,19 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  .page__content { font-size: 0.82em; line-height: 1.45; }
+  .page__content h2 { font-size: 1.35em; margin-top: 0.6em; margin-bottom: 0.3em; }
+  .page__content h3 { font-size: 1.05em; margin-top: 0.5em; margin-bottom: 0.1em; }
+  .page__content p { margin-bottom: 0.3em; }
+  .page__content details { margin-top: 0.2em; margin-bottom: 0.3em; }
+  .page__content details p { font-size: 0.92em; line-height: 1.4; }
+  .page__content hr { margin: 0.6em 0; }
+</style>
 
 ## Publications
 
 ### Integrating Operations and Finance for Sustainable Development: Theory, Practice, and Opportunities
 
-With [Yuxuan Zhang](https://it.uibe.edu.cn/szdw/xxglx/203b120b42ef4c43905a9885115d6ab0.htm) and [Jing Wu](https://www.jingwulab.org/)
-
-[*Production and Operations Management*](https://journals.sagepub.com/doi/10.1177/10591478261454786). 
+With [Yuxuan Zhang](https://it.uibe.edu.cn/szdw/xxglx/203b120b42ef4c43905a9885115d6ab0.htm) and [Jing Wu](https://www.jingwulab.org/) · [*Production and Operations Management*](https://journals.sagepub.com/doi/10.1177/10591478261454786)
 
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
-Sustainable development demands addressing two core challenges: mobilizing financial resources and aligning stakeholder incentives. This article surveys the operations-finance interface literature through the lens of “Mobilizing Resources” and “Aligning Incentives” framework. We highlight how the literature advances our knowledge of mitigating SME financing constraints and crafting operationally-informed financial contracts to internalize externalities. We identify a critical gap: while theoretical models for incentive alignment are well-established, empirical evidence remains limited due to the difficulty of analyzing unstructured data. To bridge this gap, we present large language models (LLMs) as a rigorous methodological toolkit for empirical operations management research. We outline a four-step framework—Problem Definition, Model Selection, Prompt Engineering, and Validation—and illustrate its application via a case study that extracts novel data on supplier finance programs from corporate 10-K filings. We conclude by proposing a unified research agenda to advance future research at the intersection of operations, finance, and sustainability.
+Sustainable development demands addressing two core challenges: mobilizing financial resources and aligning stakeholder incentives. This article surveys the operations-finance interface literature through the lens of "Mobilizing Resources" and "Aligning Incentives" framework. We highlight how the literature advances our knowledge of mitigating SME financing constraints and crafting operationally-informed financial contracts to internalize externalities. We identify a critical gap: while theoretical models for incentive alignment are well-established, empirical evidence remains limited due to the difficulty of analyzing unstructured data. To bridge this gap, we present large language models (LLMs) as a rigorous methodological toolkit for empirical operations management research. We outline a four-step framework—Problem Definition, Model Selection, Prompt Engineering, and Validation—and illustrate its application via a case study that extracts novel data on supplier finance programs from corporate 10-K filings. We conclude by proposing a unified research agenda to advance future research at the intersection of operations, finance, and sustainability.
 </p>
 </details>
 
@@ -26,11 +33,7 @@ Sustainable development demands addressing two core challenges: mobilizing finan
 
 ### Cost Shocks and Production Reorganization: Evidence from India's Goods and Services Tax Reform
 
-With [Kashish Arora](https://kashisharora.info/) and [Jing Wu](https://www.jingwulab.org/)
-
-Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5830602). Major Revision at *Management Science*
-
-[PDF](/files/gst.pdf)
+With [Kashish Arora](https://kashisharora.info/) and [Jing Wu](https://www.jingwulab.org/) · Major Revision at *Management Science* · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5830602) · [PDF](/files/gst.pdf)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -47,11 +50,7 @@ Taken together, these patterns reveal a clear cost-efficiency trade-off: plants 
 
 ### Global Supply Chain Rerouting in Response to the U.S.-China Trade War
 
-With [Vernon Hsu](https://www.bschool.cuhk.edu.hk/staff/hsu-vernon-ning/) and [Jing Wu](https://www.jingwulab.org/)
-
-Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787687). Major Revision at *Manufacturing & Service Operations Management*
-
-[PDF](/files/rerouting.pdf)
+With [Vernon Hsu](https://www.bschool.cuhk.edu.hk/staff/hsu-vernon-ning/) and [Jing Wu](https://www.jingwulab.org/) · Major Revision at *Manufacturing & Service Operations Management* · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787687) · [PDF](/files/rerouting.pdf)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -66,23 +65,11 @@ Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787687)
 
 ### From Diversification to Consolidation: Supply Chain Reconfiguration across Repeated Tariff Episodes
 
-With [Morris A. Cohen](https://oid.wharton.upenn.edu/profile/cohen/), [Shiliang Cui](https://sites.google.com/view/shiliangcui/home), [Vinayak Deshpande](https://www.kenan-flagler.unc.edu/faculty/directory/vinayak-deshpande/), [Ricardo Ernst](https://gufaculty360.georgetown.edu/s/contact/00336000014Rfe5AAC/ricardo-ernst), [Arnd Huchzermeier](https://www.whu.edu/en/faculty-research/supply-chain-management-group/production-management/arnd-huchzermeier/), Mark Kuppek, Daniela Muhaj, [Andy Tsay](https://www.scu.edu/business/isa/faculty/tsay/), and [Jing Wu](https://www.jingwulab.org/)
-
-Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7030898). Under Review at *Manufacturing & Service Operations Management*
-
-[PDF](/files/tariff.pdf)
+With [Morris A. Cohen](https://oid.wharton.upenn.edu/profile/cohen/), [Shiliang Cui](https://sites.google.com/view/shiliangcui/home), [Vinayak Deshpande](https://www.kenan-flagler.unc.edu/faculty/directory/vinayak-deshpande/), [Ricardo Ernst](https://gufaculty360.georgetown.edu/s/contact/00336000014Rfe5AAC/ricardo-ernst), [Arnd Huchzermeier](https://www.whu.edu/en/faculty-research/supply-chain-management-group/production-management/arnd-huchzermeier/), Mark Kuppek, Daniela Muhaj, [Andy Tsay](https://www.scu.edu/business/isa/faculty/tsay/), and [Jing Wu](https://www.jingwulab.org/) · Under Review at *Manufacturing & Service Operations Management* · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7030898) · [PDF](/files/tariff.pdf)
 
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
-Most prior academic research examines how firms respond to a single tariff episode. Yet firms increasingly operate in an environment characterized by recurring tariff shocks. Whether successive tariff episodes lead firms to continue diversifying their supply chains or instead prompt a different mode of adaptation remains largely unknown. We study how U.S. importing firms reconfigure their global supply chains across two major tariff episodes: Trade War 1.0 in 2018 and Trade War 2.0 in 2025. Using firm-product-level import transactions from Panjiva matched with Compustat, we track changes in sourcing locations, supplier networks, and shipment flows. We first show that both tariff episodes divert sourcing away from China toward a similar set of alternative countries. However, the magnitude of reallocation is substantially weaker during the second episode, and the nearshoring shift toward North America that emerged in the first episode is largely absent. We then document a fundamental shift in firms’ adjustment behavior across episodes. The initial tariff episode induces broad-based diversification: firms expand the number of sourcing countries and suppliers while reducing average shipment volumes per supplier, consistent with an explore-and-test response under uncertainty. In contrast, the repeated tariff episode does not further broaden supplier networks. Instead, firms reduce the number of active suppliers and concentrate sourcing within networks established during the first episode. Moreover, supply chain reconfiguration following the second episode occurs more rapidly and is driven primarily by supplier exits rather than new supplier entry. This pattern suggests that firms draw on knowledge accumulated during the first trade war to make more targeted and decisive adjustments. The consolidation effect is particularly pronounced for differentiated products, where coordination-intensive inputs are less amenable to fragmented supplier networks. Repeated tariff episodes do not lead to further diversification. Rather, an initial episode prompts firms to build supply chain optionality by expanding their sourcing networks, whereas subsequent episodes trigger selective pruning and consolidation within those expanded networks. These findings offer guidance for managers seeking to design resilient global supply chains in an era of recurring trade-policy uncertainty.
+Most prior academic research examines how firms respond to a single tariff episode. Yet firms increasingly operate in an environment characterized by recurring tariff shocks. Whether successive tariff episodes lead firms to continue diversifying their supply chains or instead prompt a different mode of adaptation remains largely unknown. We study how U.S. importing firms reconfigure their global supply chains across two major tariff episodes: Trade War 1.0 in 2018 and Trade War 2.0 in 2025. Using firm-product-level import transactions from Panjiva matched with Compustat, we track changes in sourcing locations, supplier networks, and shipment flows. We first show that both tariff episodes divert sourcing away from China toward a similar set of alternative countries. However, the magnitude of reallocation is substantially weaker during the second episode, and the nearshoring shift toward North America that emerged in the first episode is largely absent. We then document a fundamental shift in firms' adjustment behavior across episodes. The initial tariff episode induces broad-based diversification: firms expand the number of sourcing countries and suppliers while reducing average shipment volumes per supplier, consistent with an explore-and-test response under uncertainty. In contrast, the repeated tariff episode does not further broaden supplier networks. Instead, firms reduce the number of active suppliers and concentrate sourcing within networks established during the first episode. Moreover, supply chain reconfiguration following the second episode occurs more rapidly and is driven primarily by supplier exits rather than new supplier entry. This pattern suggests that firms draw on knowledge accumulated during the first trade war to make more targeted and decisive adjustments. The consolidation effect is particularly pronounced for differentiated products, where coordination-intensive inputs are less amenable to fragmented supplier networks. Repeated tariff episodes do not lead to further diversification. Rather, an initial episode prompts firms to build supply chain optionality by expanding their sourcing networks, whereas subsequent episodes trigger selective pruning and consolidation within those expanded networks. These findings offer guidance for managers seeking to design resilient global supply chains in an era of recurring trade-policy uncertainty.
 </p>
 </details>
-
-
-
-
-
-
----
-
