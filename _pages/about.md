@@ -20,6 +20,6 @@ Education
   - Ph.D. Candidate
   - Dissertation Title: Navigating Policy Shocks in Operations: Evidence on Global Supply Chain Rerouting and Production Reorganization
 - Shanghai Jiao Tong University (2015-2019)
-  - B.S. in Industrial Engineering
+  - B.Eng. in Industrial Engineering
 
 
