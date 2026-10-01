@@ -26,7 +26,7 @@ author_profile: true
 
 ## Professional Service
 
-**Ad hoc referee for:**
+**Referee for:**
 
 - *Manufacturing & Service Operations Management*
 - *Production and Operations Management*
