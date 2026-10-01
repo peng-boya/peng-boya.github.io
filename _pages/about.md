@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD Candidate in the Department of Decisions, Operations and Technology at the Chinese University of Hong Kong, where I am fortunate to be supervised by Prof. Jing WU and Prof. Vernon Ning HSU. 
+I am a fifth-year PhD candidate in Operations Management in the Department of Decisions, Operations and Technology at CUHK Business School, The Chinese University of Hong Kong, where I am fortunate to be advised by Prof. Jing Wu and Prof. Vernon Ning Hsu.
 
-My research examines how firms reorganize production and global supply chain when taxes and trade-policy shocks happen. Using large-scale plant- and transaction-level data and causal inference, I study firms’ adjustments in product portfolios, input sourcing, supplier networks, and indirect supply-chain dependence. A related stream of my work explores the operations–finance interface and the use of text analysis and large language models in empirical operations research.
+My research examines how firms reorganize production and global supply chains in response to tax and trade-policy shocks. Using large-scale plant-level production data and transaction-level customs data with causal inference methods, I study how firms adjust along multiple operational dimensions, including product portfolios, input sourcing, supplier networks, and indirect supply-chain dependence. A second stream of my work explores the operations–finance interface and the use of text analysis and large language models in empirical operations management research.
 
-I am on the 2026–2027 academic job market. I would be happy to discuss related research questions and potential collaborations. Please feel free to reach out.
+I am on the 2026–2027 academic job market. I am always happy to discuss research ideas and potential collaborations. Please feel free to reach out.
 
 **Contact:** [boyapeng@link.cuhk.edu.hk](mailto:boyapeng@link.cuhk.edu.hk) · [pengby5372@hotmail.com](mailto:pengby5372@hotmail.com)
 
