@@ -1,37 +1,30 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching & Service"
 permalink: /teaching/
 author_profile: true
 ---
 
-Teaching Assistant - The Chinese University of Hong Kong
-------
-<p>
-Financial Data Modeling and Analysis (FMBA) - 2025
-</p>
+## Guest Lecturer
 
-<p>
-Strategic Management of Innovation (EMBA) - 2025
-</p>
+**The Chinese University of Hong Kong**
 
-<p>
-Advanced Topics in Global Operations and Supply Chain Strategies (DBA) - 2025
-</p>
+- Statistical Analysis for Business Decisions (Undergraduate), 2024
 
-<p>
-Statistical Analysis for Business Decisions (Undergraduate) - 2024
-</p>
+## Teaching Assistant
 
-<p>
-Fintech and Its Applications (Master) - 2023
-</p>
+**The Chinese University of Hong Kong**
 
-<p>
-Global Supply Chain Management (Master) - 2022
-</p>
+- Financial Data Modeling and Analysis (FMBA), 2025
+- Strategic Management of Innovation (EMBA), 2025
+- Advanced Topics in Global Operations and Supply Chain Strategies (DBA), 2025
+- Statistical Analysis for Business Decisions (Undergraduate), 2024
+- Fintech and Its Applications (Master's), 2023
+- Global Supply Chain Management (Master's), 2022
 
+## Professional Service
 
-Guest Lecturer - The Chinese University of Hong Kong
-------
-Statistical Analysis for Business Decisions (Undergraduate) - 2024
+**Ad hoc referee for:**
+
+- *Manufacturing & Service Operations Management*
+- *Production and Operations Management*
