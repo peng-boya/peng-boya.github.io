@@ -5,11 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Guest Lecturer
-
-**The Chinese University of Hong Kong**
-
-- Statistical Analysis for Business Decisions (Undergraduate), 2024
 
 ## Teaching Assistant
 
@@ -21,6 +16,13 @@ author_profile: true
 - Statistical Analysis for Business Decisions (Undergraduate), 2024
 - Fintech and Its Applications (Master's), 2023
 - Global Supply Chain Management (Master's), 2022
+
+## Guest Lecturer
+
+**The Chinese University of Hong Kong**
+
+- Statistical Analysis for Business Decisions (Undergraduate), 2024
+
 
 ## Professional Service
 
