@@ -13,9 +13,7 @@ My research examines how firms reorganize production and global supply chain whe
 
 I am on the 2026–2027 academic job market. I would be happy to discuss related research questions and potential collaborations. Please feel free to reach out.
 
-**Contacts**
-- boyapeng@link.cuhk.edu.hk
-- pengby5372@hotmail.com
+**Contact:** [boyapeng@link.cuhk.edu.hk](mailto:boyapeng@link.cuhk.edu.hk) · [pengby5372@hotmail.com](mailto:pengby5372@hotmail.com)
 
 
 Education
